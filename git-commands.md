@@ -45,3 +45,6 @@
 
 <h3> A useful link to a Git Command Cheat Sheet:</h3>
 https://training.github.com/downloads/github-git-cheat-sheet/
+
+<h3> And a link to a full reference sheet! </h3>
+https://git-scm.com/docs
