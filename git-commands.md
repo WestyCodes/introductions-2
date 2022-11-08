@@ -42,3 +42,6 @@
         </ul>
     </li>
 </ul>
+
+<h3> A useful link to a Git Command Cheat Sheet:</h3>
+https://training.github.com/downloads/github-git-cheat-sheet/
